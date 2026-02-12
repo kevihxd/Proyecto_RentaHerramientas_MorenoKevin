@@ -126,16 +126,25 @@ POST /auth/login - Retorna el JWT.
 Herramientas (Multipart para Imágenes)
 POST /api/tools (Solo Proveedor)
 <img width="409" height="156" alt="image" src="https://github.com/user-attachments/assets/bba685da-1cbb-43af-b077-6f267c384c1b" />
+
 <img width="310" height="183" alt="image" src="https://github.com/user-attachments/assets/eccf9a41-e30b-4701-808e-3087fcfe9f66" />
+
 🧪 Pruebas (Testing)
+
 Pruebas Unitarias e Integración
+
 Se utiliza JUnit 5 y Mockito para asegurar la calidad del código. Para ejecutar los tests desde la terminal:
+
 <img width="405" height="85" alt="image" src="https://github.com/user-attachments/assets/7a4beb25-72b4-4321-8078-4a29038e7f4e" />
+
 Para probar manualmente con Swagger UI:
+
 Accede a http://localhost:8080/swagger-ui/index.html tras iniciar el servidor.
 
-<img width="174" height="46" alt="image" src="https://github.com/user-attachments/assets/ffd7284d-1f99-4e1e-8a62-f0e49d5e4132" />
-<img width="747" height="1024" alt="image" src="https://github.com/user-attachments/assets/33e6f4af-fbbb-49dc-9caa-c31e32a23676" />
+
+## <p align="center">💻 DESARROLLADOR: KEVIN MORENO </p>
+
+<p align="center"><img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/33e6f4af-fbbb-49dc-9caa-c31e32a23676" />
 
 
 
