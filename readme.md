@@ -1,4 +1,11 @@
-.<p align="center">🛠️ RentaHerramientas Pro v1.0</p><p align="center"><img src="https://img.shields.io/badge/Backend-Spring_Boot_3.2.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"><img src="https://img.shields.io/badge/Security-JWT_Stateless-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"><img src="https://img.shields.io/badge/Frontend-Vanilla_JS_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"><img src="https://img.shields.io/badge/Database-MySQL_8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></p>🛰️ System ArchitectureEl ecosistema está basado en un modelo Decoupled Architecture (Arquitectura Desacoplada), separando totalmente la lógica de negocio del cliente visual.Fragmento de códigograph TD
+# <p align="center">🏗️ RENTAHERRAMIENTAS</p>
+<p align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Production--Ready-success?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Java-17_LTS-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Team-Javasura-orange?style=flat-square" alt="Team">
+</p>
     📝 Descripción del Proyecto 
 RentaHerramientas es una plataforma integral desacoplada (Backend-Frontend) diseñada para digitalizar el proceso de alquiler de equipos de construcción. Permite a los Proveedores gestionar su inventario con carga de imágenes reales y a los Clientes reservar herramientas mediante una interfaz moderna, garantizando la seguridad transaccional a través de tokens JWT y una arquitectura robusta en Java.
 
